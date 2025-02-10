@@ -1,16 +1,15 @@
-# delevery
+ # 🚚 Delevery - POS System for Delivery Businesses
 
-A new Flutter project.
+A **Point of Sale (POS)** system designed for delivery businesses, built with **Flutter**.  
 
-## Getting Started
+## 🛠️ Technologies Used  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 **Product Management** – Add, update, and remove products easily.  
+🔹 **Order Management** – Keep track of customer orders in real-time.  
+🔹 **Online & Offline Mode** – Ensure smooth operation even in areas with poor network connectivity.  
+🔹 **E-Payment Integration** – Support cash, card, and online payments.  
+🔹 **Cloud Sync** – Synchronize data when switching between devices.  
+🔹 **Advanced reporting & analytics** – Gain insights into sales and performance.  
+🔹 **Multi-device synchronization** – Use the POS across multiple devices with real-time updates.  
+🔹 **More payment integrations** – Support for additional payment gateways.  
+🔹 **Dark mode UI** – A sleek, modern dark mode interface.  
